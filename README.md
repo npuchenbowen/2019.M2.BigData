@@ -3,8 +3,16 @@
 ## Announcements
 
 ## Lectures: 
-* __01__ (2019/9/2): Course Overview
+* __01__ (2019/11/14): Course Overview
    * [lecture_1_notes](./lecture_1.pdf)
+
+
+* __02__ (2019/11/18): Data Visualization
+   * Reading Materials: [harvard_notes](https://github.com/cs109/2015/raw/master/Lectures/03-EDA.pdf)
+   
+
+* __03__ (2019/11/21): Quantitative Trading as a Big Data Application
+   * [lecture_3_notes](./lecture_3.pdf)
 
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BigData_2019`. 
@@ -16,8 +24,8 @@
 * Location: PHBS Building, Room __335 (changed from 323)__ 
 * Office Hour: Room 649, Tuesday 9-11 AM
 
-## Teaching Assistance: TBA
-* Email: @sz.pku.edu.cn
+## Teaching Assistance: Ming Shao
+* Email: sm17@mails.tsinghua.edu.cn
 * Location: PHBS Building, Room 213
 * Office Hour: Thursday 9 - 11 AM
 
