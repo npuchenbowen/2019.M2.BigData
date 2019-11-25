@@ -1,6 +1,7 @@
 # Big Data Analysis 2019-20 Module 2
 
 ## Announcements
+* Homework 1 posted and will be due at 11:59pm 12/1/2019.
 
 ## Lectures: 
 * __01__ (2019/11/14): Course Overview
@@ -8,14 +9,21 @@
 
 
 * __02__ (2019/11/18): Data Visualization
-   * Reading Materials: [harvard_notes](https://github.com/cs109/2015/raw/master/Lectures/03-EDA.pdf)
-   
+   * Reading Materials: 
+   [harvard notes](https://github.com/cs109/2015/raw/master/Lectures/03-EDA.pdf), [useful suggestions](https://trinachi.github.io/data-design-builds/ch18.html)
 
 * __03__ (2019/11/21): Quantitative Trading as a Big Data Application
    * [lecture_3_notes](./lecture_3.pdf)
 
+
+* __04__ (2019/11/25): NoSQL Databases
+   * [lecture_4_notes](./lecture_4.pdf)
+
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BigData_2019`. 
+
+* __hw #1__ [homework_1](./homework_1.pdf)
+
 ***
 # Syllabus
 
