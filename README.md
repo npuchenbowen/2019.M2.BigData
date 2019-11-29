@@ -1,6 +1,7 @@
 # Big Data Analysis 2019-20 Module 2
 
 ## Announcements
+* Professor Tianyu Zhang will give a guest lecture on 12/5/2019.
 * Homework 1 posted and will be due at 11:59pm 12/1/2019.
 
 ## Lectures: 
@@ -19,6 +20,9 @@
 * __04__ (2019/11/25): NoSQL Databases
    * [lecture_4_notes](./lecture_4.pdf)
 
+* __05__ (2019/11/28): Hadoop
+   * [lecture_5_notes](./lecture_5.pdf)
+   
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BigData_2019`. 
 
