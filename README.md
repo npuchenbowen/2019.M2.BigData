@@ -32,7 +32,8 @@
 
 * __hw #1__ [homework_1](./homework_1.pdf)
 
-* __hw #2__ [homework_2](./homework_2.pdf)
+* __hw #2__ [homework_2](./homework_2.pdf)<br>
+	[climate_change_1](./climate_change_1.csv), [climate_change_2](./climate_change_2.csv)
 
 ***
 # Syllabus
