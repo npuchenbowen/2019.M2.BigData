@@ -1,6 +1,7 @@
 # Big Data Analysis 2019-20 Module 2
 
 ## Announcements
+* Homework 2 posted and will be due at 11:59pm 12/22/2019.
 * Professor Tianyu Zhang will give a guest lecture on 12/5/2019.
 * Homework 1 posted and will be due at 11:59pm 12/1/2019.
 
@@ -31,6 +32,8 @@
 
 * __hw #1__ [homework_1](./homework_1.pdf)
 
+* __hw #2__ [homework_2](./homework_2.pdf)
+
 ***
 # Syllabus
 
@@ -46,6 +49,7 @@
 
 ## Textbooks and Reading Materials
 * No offcial textbook, use the following reference materils
+* http://cs229.stanford.edu/syllabus.html
 * http://cs109.github.io/2015/index.html
 * https://web.stanford.edu/class/cs102/index.htm
 * Your Complete Guide to Factor-Based Investing: The Way Smart Money Invests Today, 2016, by Berklin and Swedroe 
