@@ -26,6 +26,11 @@
 
 * __06__ (2019/11/28): Linear Regression
    * [lecture_6_notes](./lecture_6.pdf)
+
+* __06__ (2019/11/28): Guest Lecture
+
+* __08__ (2019/11/28): Logistic Regression
+   * [lecture_8_notes](./lecture_8.pdf)
    
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BigData_2019`. 
