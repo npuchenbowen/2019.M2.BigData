@@ -24,14 +24,17 @@
 * __05__ (2019/11/28): Hadoop
    * [lecture_5_notes](./lecture_5.pdf)
 
-* __06__ (2019/11/28): Linear Regression
+* __06__ (2019/12/2): Linear Regression
    * [lecture_6_notes](./lecture_6.pdf)
 
-* __06__ (2019/11/28): Guest Lecture
+* __07__ (2019/12/5): Guest Lecture
 
-* __08__ (2019/11/28): Logistic Regression
+* __08__ (2019/12/9): Logistic Regression
    * [lecture_8_notes](./lecture_8.pdf)
    
+* __09__ (2019/12/12): Guest Lecture
+   * [lecture_9_notes](./Alternative_data_and_factor_investing.pdf)
+
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BigData_2019`. 
 
