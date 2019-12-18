@@ -1,6 +1,7 @@
 # Big Data Analysis 2019-20 Module 2
 
 ## Announcements
+* Song Lu from China Scope will give a guest lecture on 12/12/2019.
 * Homework 2 posted and will be due at 11:59pm 12/22/2019.
 * Professor Tianyu Zhang will give a guest lecture on 12/5/2019.
 * Homework 1 posted and will be due at 11:59pm 12/1/2019.
@@ -31,6 +32,8 @@
 
 * __08__ (2019/12/9): Logistic Regression
    * [lecture_8_notes](./lecture_8.pdf)
+   * Reading Materials: 
+   [From Professor Hung-yi Lee](./Logistic_Regression.pdf)
    
 * __09__ (2019/12/12): Guest Lecture
    * [lecture_9_notes](./Alternative_data_and_factor_investing.pdf)
