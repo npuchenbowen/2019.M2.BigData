@@ -38,6 +38,12 @@
 * __09__ (2019/12/12): Guest Lecture
    * [lecture_9_notes](./Alternative_data_and_factor_investing.pdf)
 
+* __10__ (2019/12/19): Review session and project guideline
+   * [lecture_10_notes](./lecture_10.pdf)
+
+* __11__ (2019/12/23): Midterm
+
+
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BigData_2019`. 
 
